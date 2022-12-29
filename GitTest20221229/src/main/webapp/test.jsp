@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>test.jsp</h1>
-update jsp
+<h2>update.jsp</h2>
+<h2>update2.jsp</h2>
 </body>
 </html>
